@@ -1,0 +1,76 @@
+body{
+    text-align:center;
+    margin:0px;
+}
+#welcome{
+    background-image:linear-gradient(rgb(185, 89, 105),purple,red,yellow);
+    padding-top:100px ;
+    padding-bottom:80px ;
+}
+#bio{
+    background-color: pink;
+    padding-top:100px ;
+    padding-bottom:80px ;
+}
+#pic{
+    width: 300px;
+    border-radius:150px;
+}
+#name{
+    font-size:50px;
+    font-weight:bold ;
+    color:navy;
+    font-family: 'Lobster', cursive;
+}
+.line{
+    height:6px;
+    width:80px;
+    background-color: black;
+    margin:8px auto;
+}
+.menu{
+    list-style: none;
+    position:fixed;
+    width:100%;
+    top: -10px;
+    cursor:pointer;
+    z-index: 10;
+    background-color: rgb(138, 216, 190);
+}
+.link{
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+    color: rgb(112, 112, 201);
+}
+#para{
+    font-family: 'Permanent Marker', cursive;
+}
+#abc:hover{
+    color: rgb(141, 0, 78);
+    font-size:40px;
+    text-shadow: 2px 2px black;
+}
+#videos{
+    background-color: rgb(17, 108, 150);
+    padding-top:100px ;
+    padding-bottom:80px ;
+}
+#work{
+    background-color: rgb(14, 214, 197);
+    padding-top:100px ;
+    padding-bottom:80px ;
+}
+#contact{
+    background-color: rgb(243, 35, 70);
+    padding-top:100px ;
+    padding-bottom:80px ;
+}
+#writings{
+    background-color: rgb(219, 170, 35);
+    padding-top:100px ;
+    padding-bottom:80px ;
+}
